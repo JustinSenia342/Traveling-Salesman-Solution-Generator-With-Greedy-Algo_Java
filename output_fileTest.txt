@@ -1,0 +1,7 @@
+
+***Output for fileTest.txt***
+
+Cycle: 1 2 6 5 4 3 1 Miles: 17
+Time: 1 Milliseconds
+
+
